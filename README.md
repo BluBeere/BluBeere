@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BluBeere
+- 👋 Hi, I’m BluBerry
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on A Unity-like website thats easier to understand and free (for now. I might need to set prices so that I can host it on a public domain that isnt GitHub. It would be like $1.50 a month though so no worries there hopefully.
